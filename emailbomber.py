@@ -1,7 +1,7 @@
 #!/usr/bin/python 2.7
-#E-bomber
-#This code for education purpose only.
-#Use it at your own risk !!!
+#Mr.H4cker
+# Galat Upyog na kare warna 😤😤😤
+#Mr.H4cker akela hi  kafi hai 😏😏😏!!!
 
 
 
@@ -15,11 +15,11 @@ print '                                                                    '
 print '                                                                    '
 print '            #################################################       '
 print '            #                                               #       '
-print '            #        Email Bomber ( Spamming Tool )         #       '
+print '            #          Mr.H4cker 💣💣💣💣.                  #       '
 print '            #                                               #       '
 print '            #                  Version 2.0                  #       '
 print '            #                                               #       '
-print '            #           Modified by : Mohin Paramasivam     #       '
+print '            #               Akela hi Kafi hu 😘😘😘    #       '
 print '            #                                               #       '
 print '            #       Only for Educational Purposes !!        #       '
 print '            #                                               #       '
