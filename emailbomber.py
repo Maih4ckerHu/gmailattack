@@ -1,5 +1,5 @@
 #!/usr/bin/python 2.7
-#Mr.H4cker
+# Mr.H4cker
 # Galat Upyog na kare warna 😤😤😤
 #Mr.H4cker akela hi  kafi hai 😏😏😏!!!
 
